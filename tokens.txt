@@ -1,0 +1,6 @@
+Put your tokens in this format:
+sampletoken1
+sampletoken2
+.....
+
+MAKE SURE TO PLACE YOUR CURSOR ON THE LAST LINE

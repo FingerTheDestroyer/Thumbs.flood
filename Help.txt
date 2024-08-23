@@ -1,0 +1,10 @@
+HELP-1
+Token format.
+This is how you should put your token in "tokens.txt":
+sampletoken1
+sampletoken2
+.....
+
+
+Dm my discord for support: fg27
+
