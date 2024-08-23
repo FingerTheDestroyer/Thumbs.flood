@@ -1,5 +1,5 @@
 ## FingerRaider
-A simple discord dm flooder to troll your friends 
+A simple discord dm flooder to troll your friends      
 Developer: Finger
 
 
