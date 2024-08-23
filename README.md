@@ -14,7 +14,8 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS
 ## Tutorial
 ``` bash
 download zip  
-extract zip               
+extract zip
+How to get bot token: https://www.youtube.com/watch?v=gRhUL8zBc5w
 open folder and put your tokens in tokens.txt in this format   
 token1          
 token2          
